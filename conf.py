@@ -19,13 +19,13 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "koi-project"
+site_name = "Escape Project"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "KOI"
 email = "narakyzlily@gmail.com"
 author_homepage = "https://koi.cat"
-description = "However long the night, the dawn will break."
+description = "And leaves the world to darkness and to me."
 key_words = ['Maverick', 'koi', 'Galileo', 'blog']
 language = 'english'
 external_links = [
