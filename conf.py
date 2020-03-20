@@ -37,7 +37,7 @@ external_links = [
     {
         "name": "koicloud",
         "url": "https://kois.pw",
-        "brief": "Look up at the starry sky, stand on solid ground ."
+        "brief": "Look up at the starry sky ."
     }
 ]
 nav = [
