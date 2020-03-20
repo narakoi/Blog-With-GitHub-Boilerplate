@@ -27,7 +27,7 @@ email = "narakyzlily@gmail.com"
 author_homepage = "https://koi.cat"
 description = "However long the night, the dawn will break."
 key_words = ['Maverick', 'koi', 'Galileo', 'blog']
-language = 'zh-CN'
+language = 'english'
 external_links = [
     {
         "name": "Maverick",
