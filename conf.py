@@ -22,11 +22,11 @@ enable_jsdelivr = {
 site_name = "koi-project"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
-author = "熊猫小A"
-email = "hi@imalan.cn"
-author_homepage = "https://www.imalan.cn"
-description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+author = "KOI"
+email = "narakyzlily@gmail.com"
+author_homepage = "https://koi.cat"
+description = "相信的♥是奇迹的魔法"
+key_words = ['Maverick', 'koi', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
@@ -35,9 +35,9 @@ external_links = [
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "koicloud",
+        "url": "https://kois.pw",
+        "brief": "koicloud。"
     }
 ]
 nav = [
