@@ -12,11 +12,11 @@ tags:
   - theme
 ---
 
-这里是我的个人博客，通过 GitHub 管理与构建。
+干嘛嘛不行，恰饭第一名！
 
 
 ## Contact
 
-Email: hi#imalan.cn (replace # with @)
+Email: narakyzlily@gmail.com (replace # with @)
 
-Telegram：[AlanDecode](https://t.me/alandecode)
+Telegram：[Kyz](https://t.me/narakoi)
