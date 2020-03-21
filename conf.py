@@ -44,6 +44,12 @@ external_links = [
         "url": "https://www.moec.top/",
         "brief": "杂七杂八的分享"
     }
+    ,
+    {
+        "name": "KLDGodY'sBlog",
+        "url": "https://www.kldgody.top/",
+        "brief": "一个蒟蒻的博客"
+    }
 ]
 nav = [
     {
