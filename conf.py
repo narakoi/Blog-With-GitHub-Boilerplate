@@ -89,6 +89,7 @@ social_links = [
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
+<link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/narakoi/narakoi.github.io@master/logo-%E5%A4%B4%E5%83%8F.jpg" type="image/x-icon" />
 '''
 
 footer_addon = ''
