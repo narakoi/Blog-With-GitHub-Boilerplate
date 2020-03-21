@@ -29,11 +29,7 @@ description = "And leaves the world to darkness and to me."
 key_words = ['Maverick', 'koi', 'Galileo', 'blog']
 language = 'english'
 external_links = [
-    {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
-    },
+    
     {
         "name": "koicloud",
         "url": "https://kois.pw",
