@@ -46,7 +46,7 @@ external_links = [
     }
     ,
     {
-        "name": "KLDGodY'sBlog",
+        "name": "KLDGodY's Blog",
         "url": "https://www.kldgody.top/",
         "brief": "一个蒟蒻的博客"
     }
