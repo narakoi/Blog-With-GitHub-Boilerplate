@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World!
+title: Hello World!Hello Maverick
 slug: typography
 date: 2019-12-18 16:50
 status: publish
