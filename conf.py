@@ -38,6 +38,11 @@ external_links = [
         "name": "koicloud",
         "url": "https://kois.pw",
         "brief": "Look up at the starry sky."
+    },
+    {
+        "name": "老兄de博客",
+        "url": "https://www.moec.top/",
+        "brief": "杂七杂八的分享"
     }
 ]
 nav = [
