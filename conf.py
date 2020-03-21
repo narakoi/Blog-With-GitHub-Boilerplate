@@ -60,11 +60,6 @@ nav = [
         "name": "About",
         "url": "${site_prefix}about/",
         "target": "_self"
-    },
-    {
-        "name": "Links",
-        "url": "${site_prefix}links/",
-        "target": "_self"
     }
 ]
 
