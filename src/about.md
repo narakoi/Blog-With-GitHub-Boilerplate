@@ -12,11 +12,11 @@ tags:
   - theme
 ---
 
-干嘛嘛不行，恰饭第一名！
+来自南方的咸鱼，特长事恰饭。
 
 
 ## Contact
 
-Email: narakyzlily@gmail.com (replace # with @)
+Email: narakyzlily@gmail.com 
 
 Telegram：[Kyz](https://t.me/narakoi)
