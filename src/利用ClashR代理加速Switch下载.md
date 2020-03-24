@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 利用Clash代理加速Switch下载
-slug: clashr to switch
+slug: clashrtoswitch
 date: 2020-03-21 23:30
 status: publish
 author: KOI

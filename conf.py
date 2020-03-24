@@ -45,6 +45,11 @@ external_links = [
         "name": "KLDGodY's Blog",
         "url": "https://www.kldgody.top/",
         "brief": "一个蒟蒻的博客"
+    },
+    {
+        "name": "AnYi's Blog",
+        "url": "https://blog.sukiu.net",
+        "brief": "可可爱爱的anyi"
     }
 ]
 nav = [
