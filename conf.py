@@ -8,11 +8,7 @@ source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
-template = {
-    "name": "Kepler",
-    "type": "local",
-    "path": "../Kepler"
-}
+template = "Kepler"
 enable_jsdelivr = {
     "enabled": True,
     "repo": "narakoi/narakoi.github.io@master"
