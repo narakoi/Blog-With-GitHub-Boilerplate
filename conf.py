@@ -33,7 +33,7 @@ external_links = [
     {
         "name": "koicloud",
         "url": "https://kois.pw",
-        "brief": "Look up at the starry sky."
+        "brief": "一个有点可爱的小圈自用VPN"
     },
     {
         "name": "老兄de博客",
