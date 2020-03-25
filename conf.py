@@ -31,7 +31,7 @@ language = 'english'
 external_links = [
     
     {
-        "name": "koicloud",
+        "name": "KoiCloud",
         "url": "https://kois.pw",
         "brief": "一个有点可爱的小圈自用VPN"
     },
