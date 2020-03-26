@@ -13,4 +13,21 @@ tags:
 excerpt: 优雅的使用Clash
 ---
 
- 正在编写ing，，
+   鉴于现在Switch在线下载游戏的速度实在是太慢，更换dns效果也不是很明显。经过一番折腾，用clashr成功给Switch连上了代理，这里我就简单分享下。
+
+
+
+![](.\images\clashr01.png)
+
+![](.\images\clashr02.png)
+
+![](.\images\clashr03.png)
+
+![](.\images\switch01.jpg)
+
+![](.\images\switch02.jpg)
+
+![](.\images\switch03.jpg)
+
+
+
