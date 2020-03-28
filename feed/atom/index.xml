@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="english"><id>/</id><title>Escape Project</title><updated>2020-03-26T10:51:43.375957+08:06</updated><author><name>KOI</name><email>narakyzlily@gmail.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/narakoi/narakoi.github.io@master/logo-头像.jpg</logo><subtitle>Life kicks in right now.</subtitle><entry><id>/archives/typography/</id><title>Hello World!Hello Maverick</title><updated>2020-03-26T10:51:43.376139+00:00</updated><author><name>AlanDecode</name><email>narakyzlily@gmail.com</email><uri>https://koi.cat</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="english"><id>/</id><title>Escape Project</title><updated>2020-03-28T00:16:50.916689+08:06</updated><author><name>KOI</name><email>narakyzlily@gmail.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/narakoi/narakoi.github.io@master/logo-头像.jpg</logo><subtitle>Life kicks in right now.</subtitle><entry><id>/archives/typography/</id><title>Hello World!Hello Maverick</title><updated>2020-03-28T00:16:50.916857+00:00</updated><author><name>AlanDecode</name><email>narakyzlily@gmail.com</email><uri>https://koi.cat</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
@@ -79,8 +79,8 @@
 &lt;h2&gt;Link Card&lt;/h2&gt;
 &lt;div class="links"&gt;
 &lt;a style="display:block" target="_blank" href="https://www.imalan.cn" class="board-item"&gt;                 &lt;div class="board-thumb"&gt;&lt;img src="https://secure.gravatar.com/avatar/1741a6eef5c824899e347e4afcbaa75d?s=200&amp;r=G&amp;d="&gt;&lt;/div&gt;                 &lt;div class="board-title"&gt;AlanDecode&lt;/div&gt;&lt;/a&gt;
-&lt;a style="display:block" target="_blank" href="https://koi.cat" class="board-item"&gt;                 &lt;div class="board-thumb"&gt;&lt;img src="https://en.gravatar.com/userimage/174678709/b286905d88a9e4e9f6a1e870f50be9a9.jpg?size=200"&gt;&lt;/div&gt;                 &lt;div class="board-title"&gt;KOI&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;Home page for AlanDecode &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</content><link href="/archives/typography/" rel="alternate"/><published>2019-12-18T16:50:00+08:06</published></entry><entry><id>/archives/gugugu/</id><title>咕，咕咕咕</title><updated>2020-03-26T10:51:43.376098+00:00</updated><author><name>KOI</name><email>narakyzlily@gmail.com</email><uri>https://koi.cat</uri></author><content>&lt;p&gt;咕——&lt;/p&gt;
-</content><link href="/archives/gugugu/" rel="alternate"/><published>2020-03-21T02:30:00+08:06</published></entry><entry><id>/archives/clashrtoswitch/</id><title>利用Clash代理加速Switch下载</title><updated>2020-03-26T10:51:43.376028+00:00</updated><author><name>KOI</name><email>narakyzlily@gmail.com</email><uri>https://koi.cat</uri></author><content>&lt;h2&gt;前言&lt;/h2&gt;
+&lt;a style="display:block" target="_blank" href="https://koi.cat" class="board-item"&gt;                 &lt;div class="board-thumb"&gt;&lt;img src="https://en.gravatar.com/userimage/174678709/b286905d88a9e4e9f6a1e870f50be9a9.jpg?size=200"&gt;&lt;/div&gt;                 &lt;div class="board-title"&gt;KOI&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;Home page for AlanDecode &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</content><link href="/archives/typography/" rel="alternate"/><published>2019-12-18T16:50:00+08:06</published></entry><entry><id>/archives/gugugu/</id><title>咕，咕咕咕</title><updated>2020-03-28T00:16:50.916828+00:00</updated><author><name>KOI</name><email>narakyzlily@gmail.com</email><uri>https://koi.cat</uri></author><content>&lt;p&gt;咕——&lt;/p&gt;
+</content><link href="/archives/gugugu/" rel="alternate"/><published>2020-03-21T02:30:00+08:06</published></entry><entry><id>/archives/clashrtoswitch/</id><title>利用Clash代理加速Switch下载</title><updated>2020-03-28T00:16:50.916796+00:00</updated><author><name>KOI</name><email>narakyzlily@gmail.com</email><uri>https://koi.cat</uri></author><content>&lt;h2&gt;前言&lt;/h2&gt;
 &lt;p&gt;鉴于现在Switch在线下载游戏的速度实在是太慢，更换dns效果也不是很明显。经过一番折腾，用Clash(R)成功给Switch连上了代理，这里我就简单分享下。&lt;/p&gt;
 &lt;h3&gt;电脑端配置&lt;/h3&gt;
 &lt;p&gt;1.首先要先获取你的Clash(R)订阅，在Profiler处一键导入到你的Clash(R)客户端。再切换到Proxies界面，选择合适的节点。&lt;/p&gt;
@@ -97,4 +97,91 @@
 &lt;p&gt;来跑下测速把！&lt;/p&gt;
 &lt;p&gt;&lt;figure style="flex: 88.88888888888889" &gt;&lt;img width="1280" height="720" src="https://cdn.jsdelivr.net/gh/narakoi/narakoi.github.io@master/archives/assets/af85e876118a0ad3ff8089fb73f29475.jpg" /&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;可以看到下载速度比之前快了不少。&lt;/p&gt;
-</content><link href="/archives/clashrtoswitch/" rel="alternate"/><published>2020-03-21T23:30:00+08:06</published></entry></feed>
+</content><link href="/archives/clashrtoswitch/" rel="alternate"/><published>2020-03-21T23:30:00+08:06</published></entry><entry><id>/archives/linuxtospeedtest/</id><title>在Linux中使用Speedtest测速完整版</title><updated>2020-03-28T00:16:50.916743+00:00</updated><author><name>KOI</name><email>narakyzlily@gmail.com</email><uri>https://koi.cat</uri></author><content>&lt;blockquote&gt;&lt;p&gt;Speedtest是Ookla推出的一款基于全球视图的可视化网速测试工具。与众不同的是它可以在一个世界地图上来选择指定的测试服务器，用绿色三角标记的是建议用来测速的服务器，白点标记的是可用测试点服务器。测试的结果显示了你连接到此服务器的上传及下载速率，网络延时等信息。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;快速配置&lt;/h2&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;wget -N --no-check-certificate https://raw.github.com/sivel/speedtest-cli/master/speedtest.py
+chmod a+rx speedtest.py
+python speedtest.py
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;运行脚本后如果提示&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;-bash: python: &lt;span class="nb"&gt;command&lt;/span&gt; not found
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;可能是因为部分Linux系统自带的是python3，这个时候我们只需要稍微修改下，将运行脚本命令修改为&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;python3 speedtest.py
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;代码执行结果如下（参考）&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;root@debian:~# python3 speedtest.py
+Retrieving speedtest.net configuration...
+Testing from Choopa, LLC &lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="m"&gt;108&lt;/span&gt;.160.13x.xx&lt;span class="o"&gt;)&lt;/span&gt;...
+Retrieving speedtest.net server list...
+Selecting best server based on ping...
+Hosted by OPEN Project &lt;span class="o"&gt;(&lt;/span&gt;via 20G SINET&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;(&lt;/span&gt;Tokyo&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="m"&gt;13&lt;/span&gt;.54 km&lt;span class="o"&gt;]&lt;/span&gt;: &lt;span class="m"&gt;2&lt;/span&gt;.292 ms
+Testing download speed................................................................................
+Download: &lt;span class="m"&gt;1278&lt;/span&gt;.77 Mbit/s
+Testing upload speed......................................................................................................
+Upload: &lt;span class="m"&gt;2230&lt;/span&gt;.29 Mbit/s
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;就能测出小鸡的运行速度叻(vu is best!&lt;/p&gt;
+&lt;h2&gt;分享结果&lt;/h2&gt;
+&lt;p&gt;有时候我们会想分享一下测速结果，如果是直接复制测速数据的话有点不太雅观，这个时候我们可以将测速结果生成一张图片并分享，只需要稍微修改下运行脚本命令&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;python speedtest.py --share
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;如果是python3的话就改为&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;python3 speedtest.py --share
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;代码执行结果如下（参考）&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;root@debian:~# python3 speedtest.py --share
+Retrieving speedtest.net configuration...
+Testing from Choopa, LLC &lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="m"&gt;108&lt;/span&gt;.160.13x.xx&lt;span class="o"&gt;)&lt;/span&gt;...
+Retrieving speedtest.net server list...
+Selecting best server based on ping...
+Hosted by IPA CyberLab &lt;span class="o"&gt;(&lt;/span&gt;Bunkyo&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="m"&gt;14&lt;/span&gt;.09 km&lt;span class="o"&gt;]&lt;/span&gt;: &lt;span class="m"&gt;2&lt;/span&gt;.729 ms
+Testing download speed................................................................................
+Download: &lt;span class="m"&gt;1003&lt;/span&gt;.16 Mbit/s
+Testing upload speed......................................................................................................
+Upload: &lt;span class="m"&gt;1574&lt;/span&gt;.85 Mbit/s
+Share results: https://www.speedtest.net/result/9197068694.png
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;在浏览器里复制SpeedTest生成给你的图片地址：&lt;a href="https://www.speedtest.net/result/9197068694.png"&gt;https://www.speedtest.net/result/9197068694.png&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;就能得到一张简洁，精美的测速图。&lt;/p&gt;
+&lt;p&gt;&lt;figure style="flex: 87.5" &gt;&lt;img width="350" height="200" src="https://www.speedtest.net/result/9197068694.png" /&gt;&lt;figcaption&gt;vu is best！&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h2&gt;进阶配置&lt;/h2&gt;
+&lt;p&gt;众所周知，SpeedTest的测速是以节点最近的一个测速点进行测速。有时候默认的测速点会很迷惑，速度经常跑不上去，这可能是由于机子ip没有被识别到正确的地址，导致测速点可能隔着一条太平洋。这个时候我们可以指定区域测速。&lt;/p&gt;
+&lt;p&gt;比如我们指定小鸡在日本区域进行测速，那么我们可以先列出日本区域的测速节点。输入指令&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;python speedtest.py --list &lt;span class="p"&gt;|&lt;/span&gt; grep Japan
+&lt;span class="c1"&gt;# python3的话使用下面这条&lt;/span&gt;
+python3 speedtest.py --list &lt;span class="p"&gt;|&lt;/span&gt; grep Japan
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;执行后输出如下&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;root@debian:~# python3 speedtest.py --list &lt;span class="p"&gt;|&lt;/span&gt; grep Japan
+&lt;span class="m"&gt;24333&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; Rakuten Mobile , Inc &lt;span class="o"&gt;(&lt;/span&gt;Tokyo, Japan&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="m"&gt;13&lt;/span&gt;.54 km&lt;span class="o"&gt;]&lt;/span&gt;
+&lt;span class="m"&gt;15047&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; OPEN Project &lt;span class="o"&gt;(&lt;/span&gt;via 20G SINET&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;(&lt;/span&gt;Tokyo, Japan&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="m"&gt;13&lt;/span&gt;.54 km&lt;span class="o"&gt;]&lt;/span&gt;
+&lt;span class="m"&gt;28910&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; fdcservers.net &lt;span class="o"&gt;(&lt;/span&gt;Tokyo, Japan&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="m"&gt;13&lt;/span&gt;.54 km&lt;span class="o"&gt;]&lt;/span&gt;
+&lt;span class="m"&gt;21569&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; i3D.net &lt;span class="o"&gt;(&lt;/span&gt;Tokyo, Japan&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="m"&gt;13&lt;/span&gt;.54 km&lt;span class="o"&gt;]&lt;/span&gt;
+&lt;span class="m"&gt;14623&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; IPA CyberLab &lt;span class="o"&gt;(&lt;/span&gt;Bunkyo, Japan&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="m"&gt;14&lt;/span&gt;.09 km&lt;span class="o"&gt;]&lt;/span&gt;
+ &lt;span class="m"&gt;8407&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; Allied Telesis Capital Corporation &lt;span class="o"&gt;(&lt;/span&gt;Sagamihara, Japan&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="m"&gt;35&lt;/span&gt;.57 km&lt;span class="o"&gt;]&lt;/span&gt;
+ &lt;span class="m"&gt;6087&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; Allied Telesis Capital Corporation &lt;span class="o"&gt;(&lt;/span&gt;Fussa-shi, Japan&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="m"&gt;42&lt;/span&gt;.59 km&lt;span class="o"&gt;]&lt;/span&gt;
+ &lt;span class="m"&gt;7139&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; SoftEther Corporation &lt;span class="o"&gt;(&lt;/span&gt;Tsukuba, Japan&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="m"&gt;57&lt;/span&gt;.04 km&lt;span class="o"&gt;]&lt;/span&gt;
+ &lt;span class="m"&gt;6766&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; JAIST&lt;span class="o"&gt;(&lt;/span&gt;ino-lab&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;(&lt;/span&gt;Nomi, Japan&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="m"&gt;305&lt;/span&gt;.16 km&lt;span class="o"&gt;]&lt;/span&gt;
+&lt;span class="m"&gt;24774&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; Local24 Inc., &lt;span class="o"&gt;(&lt;/span&gt;Kyoto, Japan&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="m"&gt;368&lt;/span&gt;.32 km&lt;span class="o"&gt;]&lt;/span&gt;
+ &lt;span class="m"&gt;6405&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; Allied Telesis Capital Corporation &lt;span class="o"&gt;(&lt;/span&gt;Misawa, Japan&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="m"&gt;584&lt;/span&gt;.23 km&lt;span class="o"&gt;]&lt;/span&gt;
+&lt;span class="m"&gt;18709&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; extride inc &lt;span class="o"&gt;(&lt;/span&gt;Hitoyoshi, Japan&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="m"&gt;911&lt;/span&gt;.19 km&lt;span class="o"&gt;]&lt;/span&gt;
+ &lt;span class="m"&gt;6581&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; haza &lt;span class="o"&gt;(&lt;/span&gt;Haebaru, Japan&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="m"&gt;1549&lt;/span&gt;.99 km&lt;span class="o"&gt;]&lt;/span&gt;
+&lt;span class="m"&gt;21118&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; GLBB Japan &lt;span class="o"&gt;(&lt;/span&gt;Naha, Japan&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="m"&gt;1551&lt;/span&gt;.81 km&lt;span class="o"&gt;]&lt;/span&gt;
+&lt;span class="m"&gt;30230&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; Lequios &lt;span class="o"&gt;(&lt;/span&gt;Naha City, Japan&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="m"&gt;1551&lt;/span&gt;.81 km&lt;span class="o"&gt;]&lt;/span&gt;
+&lt;span class="m"&gt;31181&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; Allied Telesis Capital Corp. &lt;span class="o"&gt;(&lt;/span&gt;Okinawa, Japan&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="m"&gt;1557&lt;/span&gt;.43 km&lt;span class="o"&gt;]&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;前面数字代表的是测速节点的数字id，后面xxx Km指测速点与小鸡的物理距离。&lt;/p&gt;
+&lt;p&gt;比方说我们要在 i3D.net 这个测速点进行测速并分享，那么我们可以修改启动命令为&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;python speedtest.py --server 21569 --share
+# python3 用下面这条
+python3 speedtest.py --server 21569 --share&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;如果想要更多测速节点参考的话，可以使用命令&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;python speedtest.py --list|more
+# python3
+python3 speedtest.py --list|more&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;来获取更多国家地区的测速节点。&lt;/p&gt;
+</content><link href="/archives/linuxtospeedtest/" rel="alternate"/><published>2020-03-28T07:21:00+08:06</published></entry></feed>
