@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 在Linux中使用Speedtest测速完整版
-slug: clashrtoswitch
+slug: linuxtospeedtest
 date: 2020-03-28 07:21
 status: publish
 author: KOI
@@ -145,5 +145,5 @@ python speedtest.py --list|more
 python3 speedtest.py --list|more
 ```
 
-获取更多国家地区的测速节点。
+来获取更多国家地区的测速节点。
 
