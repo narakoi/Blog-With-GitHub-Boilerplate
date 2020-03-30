@@ -50,6 +50,11 @@ external_links = [
         "name": "AnYi's Blog",
         "url": "https://blog.sukiu.net",
         "brief": "可可爱爱的anyi"
+    },
+    {
+        "name": "猫猫秘密基地",
+        "url": "https://dalaoshi777blog.online",
+        "brief": "喵喵喵～" 
     }
 ]
 nav = [
