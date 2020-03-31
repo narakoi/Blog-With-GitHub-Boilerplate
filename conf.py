@@ -55,6 +55,11 @@ external_links = [
         "name": "猫猫秘密基地",
         "url": "https://dalaoshi777blog.online",
         "brief": "喵喵喵～" 
+    },
+    {
+        "name": "INTEL-2333的导航",
+        "url": "https://www.cattery.work/",
+        "brief": "可爱的猫猫" 
     }
 ]
 nav = [
