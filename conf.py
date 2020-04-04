@@ -20,7 +20,7 @@ enable_jsdelivr = {
 
 # 站点设置
 site_name = "Escape Project"
-site_logo = "${static_prefix}logo-头像.jpg"
+site_logo = "http://cdn.jsdelivr.net/gh/narakoi/pic/like/koicat.jpg"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "KOI"
 email = "narakyzlily@gmail.com"
