@@ -12,6 +12,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+    <loc>/archives/netchtoswitch/</loc>
+    <lastmod>2020-04-04</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
     <loc>/archives/linuxtospeedtest/</loc>
     <lastmod>2020-03-28</lastmod>
     <changefreq>always</changefreq>
