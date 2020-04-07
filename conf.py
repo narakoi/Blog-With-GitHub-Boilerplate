@@ -60,6 +60,11 @@ external_links = [
         "name": "INTEL-2333的导航",
         "url": "https://www.cattery.work/",
         "brief": "可爱的猫猫" 
+    },
+    {
+        "name": "T1m0R's Blog",
+        "url": "https://www.tsnet.net/",
+        "brief": "提莫大佬" 
     }
 ]
 nav = [
