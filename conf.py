@@ -52,14 +52,14 @@ external_links = [
         "brief": "可可爱爱的anyi"
     },
     {
-        "name": "猫猫秘密基地",
-        "url": "https://dalaoshi777blog.online",
-        "brief": "喵喵喵～" 
+        "name": "FRUCTOSE‘S BLOG",
+        "url": "https://www.pibonds.com/",
+        "brief": "果糖大佬" 
     },
     {
         "name": "INTEL-2333的导航",
         "url": "https://www.cattery.work/",
-        "brief": "可爱的猫猫" 
+        "brief": "可爱的臭猫咪" 
     },
     {
         "name": "T1m0R's Blog",
