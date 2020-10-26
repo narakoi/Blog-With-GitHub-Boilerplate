@@ -31,11 +31,6 @@ language = 'english'
 external_links = [
     
     {
-        "name": "SudaCloud",
-        "url": "https://suda.cat",
-        "brief": "一个十分可爱的小圈自用VPN"
-    },
-    {
         "name": "老兄de博客",
         "url": "https://www.moec.top/",
         "brief": "杂七杂八的分享"
